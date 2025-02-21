@@ -1,0 +1,9 @@
+#root {
+    width: 100%;
+}
+
+body {
+    background-color: darkslategrey;
+    display: flex;
+    flex-direction: column;
+}
